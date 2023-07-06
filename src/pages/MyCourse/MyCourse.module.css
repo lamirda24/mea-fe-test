@@ -1,0 +1,9 @@
+.container {
+  padding-top: 50px;
+  width: 1180px;
+  margin: 0 auto;
+  height: 100vh;
+}
+.content {
+  padding-top: 15px;
+}
